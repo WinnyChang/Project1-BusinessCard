@@ -3,6 +3,8 @@
 ## Overview
 This is my first front-end development project, where I created a digital business card using HTML and CSS. The goal was to design a clean and visually appealing layout that highlights essential information about me.
 
+![Project Screenshot](screenshots/Project1_Screenshot.png)
+
 **Live Demo:** [View on CodePen](https://codepen.io/WinnyChang-Yun/pen/azoExzJ)
 
 ## Tech Stack
